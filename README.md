@@ -1,7 +1,7 @@
 # Mirror Mirror 
 
 ## A smart mirror based on the Raspberry Pi and the Magic Mirror opensource framework. Voice recognition and dynamic display based on voice command. Facial recognition and sign in based on picture.
-### [Demo Here](https://drive.google.com/open?id=0B9eVEaOOI35QeXJQczFyTm84N3M)
+### [Demo Here](https://www.youtube.com/watch?v=psGGQQ7luvk&feature=youtu.be)
 #### A smart mirror uses a display behind one way glass. The backlit screen shows through the refective layer, so you can see yourself as well as the information displayed.
 
 #### Technologies
